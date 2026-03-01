@@ -15,7 +15,7 @@
 
 ---
 
-## Day 2: Mon, 9 Mar 2026 — Arrival + Raku Spa
+## Day 2: Mon, 9 Mar 2026 — Arrival + Raku Spa ⚠️ IMPROVED
 
 | Time | Activity | Location | Remarks |
 |------|----------|----------|---------|
@@ -27,26 +27,59 @@
 | 12:00 PM | Lunch | Near Ochanomizu station | |
 | 2:30 PM | Train to hotel | → Asakusa-bashi | |
 | 3:00 PM | Check-in | HOTEL MYSTAYS Asakusa-bashi | Drop bags |
-| 4:00 PM | Imperial Palace | Chiyoda | Last entry 4:30 PM, closes 5 PM |
-| 6:00 PM | Dinner | Sato Yosuke Ginza Inaniwa Udon | |
-| 9:00 PM | Return to hotel | HOTEL MYSTAYS Asakusa-bashi | |
+| 3:45 PM | **Imperial Palace Outer Grounds** | Chiyoda | ⚠️ East Gardens CLOSED Mondays! Outer grounds always open |
+| 4:15 PM | Nijubashi Bridge photo | Imperial Palace | Iconic double bridge |
+| 5:00 PM | Walk to Ginza | → Ginza (15 min) | Shopping street stroll |
+| 6:00 PM | Dinner | Sato Yosuke Ginza Inaniwa Udon | **Reservations recommended** +81-3-6215-6211, 10% service charge after 5 PM |
+| 8:00 PM | Optional: Asakusa Sensoji | → Asakusa (20 min from hotel) | Temple lit up at night, Nakamise street |
+| 9:30 PM | Return to hotel | HOTEL MYSTAYS Asakusa-bashi | |
+
+**⚠️ Important Note:** Imperial Palace East Gardens are **CLOSED on Mondays and Fridays**. The Outer Grounds (Nijubashi Bridge area) are always open and free. If you want garden access, either:
+- Option A: Visit Asakusa Sensoji Temple instead (open daily, 6 AM-5 PM)
+- Option B: Visit Ueno Park + Tokyo National Museum (open 9:30 AM-5 PM, closed Mondays but park open)
+- Option C: Return on Tue 10 Mar afternoon after Fuji trip (East Gardens open Tue-Fri except holidays)
 
 ---
 
-## Day 3: Tue, 10 Mar 2026 — Mt. Fuji Day Trip
+## Day 3: Tue, 10 Mar 2026 — Mt. Fuji Day Trip 🗻 IMPROVED
 
 | Time | Activity | Location | Remarks |
 |------|----------|----------|---------|
-| 7:45 AM | Train to Tochomae | → Shinjuku | 30 min |
-| 8:30 AM | Shuttle bus pickup | Kogakuin Univ, Shinjuku West Exit | |
-| 10:00 AM | Arakurayama Sengen Park | Fujiyoshida | Chureito Pagoda + Mt. Fuji view |
-| 11:10 AM | Fujiyoshida Honcho Street | Fujiyoshida | Street food, shopping |
-| 12:00 PM | Oshino Hakkai | Oshino | 8 traditional ponds |
-| 2:00 PM | Oishi Park | Lake Kawaguchi | Fuji views, flower fields |
-| 3:00 PM | Saiko Iyashi-no-Sato Nenba | Saiko | Traditional village |
-| 6:00 PM | Return to Shinjuku | Shinjuku Station | |
-| 7:00 PM | Dinner | Ramen Takahashi (Shinjuku) | |
-| 9:00 PM | Return to hotel | HOTEL MYSTAYS Asakusa-bashi | |
+| 7:00 AM | **Early breakfast** | Near hotel or Asakusa-bashi | Grab onigiri/coffee (long day ahead) |
+| 7:30 AM | Train to Shinjuku | Toei Oedo Line → Tochomae → Shinjuku | ~35 min |
+| 8:15 AM | Arrive Shinjuku West Exit | Kogakuin University | Buy water/snacks at konbini |
+| 8:30 AM | **Shuttle bus pickup** | Kogakuin Univ, Shinjuku West Exit | ⏰ **Be on time!** Bus won't wait |
+| 10:00 AM | **Arakurayama Sengen Park** | Fujiyoshida | 📸 Chureito Pagoda + Mt. Fuji (iconic shot!) |
+| 11:10 AM | **Fujiyoshida Honcho Street** | Fujiyoshida | Street food: hoto noodles, beef skewers, soft serve |
+| 12:00 PM | **Oshino Hakkai** | Oshino | 8 traditional ponds, crystal clear water from Fuji |
+| 2:00 PM | **Oishi Park** | Lake Kawaguchi | 🌸 Flower fields + Fuji views (best photo spot!) |
+| 3:00 PM | **Saiko Iyashi-no-Sato Nenba** | Saiko | Traditional thatched-roof village, craft workshops |
+| 4:30 PM | **Optional: Lake Kawaguchi Ropeway** | Kawaguchiko | ¥800 round-trip, panoramic views (if time/energy) |
+| 6:00 PM | Return to Shinjuku | Shinjuku Station | Tired! Grab dinner near Shinjuku |
+| 7:00 PM | Dinner | Ramen Takahashi (Shinjuku) | Or Ichiran, Afuri, or Omoide Yokocho |
+| 9:00 PM | Return to hotel | HOTEL MYSTAYS Asakusa-bashi | Early night! |
+
+### 🎒 Packing for Fuji Day Trip
+- **Warm layers** (5-10°C at altitude, windier than Tokyo)
+- **Comfortable walking shoes** (lots of walking at each stop)
+- **Cash** (¥10,000+ — many shops don't take cards)
+- **Motion sickness meds** (winding mountain roads, 2+ hrs each way)
+- **Portable charger** (cold drains battery fast)
+- **Sunglasses + sunscreen** (bright at elevation)
+- **Wet wipes** (limited restroom facilities on bus)
+
+### ⚠️ Weather Backup Plan
+If Mt. Fuji is cloudy/hidden (common!):
+- **Option A:** Continue trip anyway — still enjoy towns, food, culture
+- **Option B:** Skip Fuji, do **Nikko Day Trip** instead (shrines, waterfalls, monkeys)
+- **Option C:** Stay in Tokyo — Tsukiji + teamLab Planets + Odaiba
+
+### 💡 Pro Tips
+- **Book shuttle bus in advance** via Klook or official site (Fuji Five Lakes Tour)
+- **Sit on RIGHT side** of bus for best Fuji views (weather permitting)
+- **Bring trash bags** — limited bins on bus/at stops
+- **Download offline maps** — spotty signal in mountains
+- **Charge devices overnight** — no charging on bus
 
 ---
 
@@ -221,6 +254,143 @@
 | Kamakura → Enoshima | Enoden | 25-34 min | Covered by Freepass |
 | Enoshima → Shinjuku | Odakyu Line | ~65 min | Covered by Freepass |
 | DisneySea → Haneda | Disney Line + JR + Monorail | ~2 hrs | ~¥1,160 |
+
+---
+
+## 🚇 Essential Transport Tips
+
+### SUICA/PASMO IC Card
+- **Buy at:** Any JR station (Haneda, Tokyo, Shinjuku)
+- **Cost:** ¥500 deposit + load amount (recommend ¥10,000)
+- **Use:** All trains, subways, buses, konbini, vending machines
+- **Mobile SUICA:** Add to iPhone Wallet (Settings → Wallet → Add Card → Transit Card → SUICA)
+
+### Enoshima-Kamakura Freepass
+- **Where:** Odakyu Station (Shinjuku) ticket machines or counter
+- **Cost:** ¥1,640 (covers round-trip Shinjuku-Fujisawa + unlimited Enoden)
+- **Savings:** ~¥800 vs buying separate tickets
+- **Valid:** 2 consecutive days (you only need 1 day)
+
+### DisneySea Transport
+- **Route:** Disney Resort Line → Maihama → JR Keiyo → Tokyo → Yamanote → Hamamatsucho → Monorail → Haneda
+- **Total time:** ~2 hours with luggage
+- **Total cost:** ~¥1,160 per person
+- **Tip:** Use luggage forwarding (takkyubin) if you have large bags — ¥2,000-3,000 per bag, delivers next day
+
+---
+
+## 📱 Connectivity & Apps
+
+### WiFi/SIM Options
+| Option | Cost | Pros | Cons |
+|--------|------|------|------|
+| **Pocket WiFi** | ~S$10-15/day | Unlimited data, share with K-cia | Carry device, charge nightly |
+| **eSIM (Ubigi/Airalo)** | ~S$20-30 for 10GB | No physical SIM, instant setup | Phone must support eSIM |
+| **Physical SIM** | ~S$15-25 for 10GB | Cheap, reliable | Need to swap SIM |
+| **Free WiFi** | Free | Tokyo Station, konbini, cafes | Spotty, requires login |
+
+**Recommendation:** eSIM for convenience, or Pocket WiFi if sharing with K-cia
+
+### Must-Have Apps
+- [ ] **Tokyo Disney Resort** (DisneySea tickets, standby passes, wait times)
+- [ ] **Google Maps** (download offline Tokyo + Fuji areas)
+- [ ] **Japan Travel by Navitime** (train routes, platform numbers, fares)
+- [ ] **Google Translate** (download Japanese offline, camera translate)
+- [ ] **SUICA** (if using mobile, check balance)
+- [ ] **Currency converter** (XE Currency or similar)
+
+---
+
+## 💰 Money & Payment
+
+### Cash vs Card
+- **Cash needed:** Temples, small shops, vending machines, konbini, Fuji trip
+- **Cards accepted:** Department stores, chain restaurants, hotels, DisneySea
+- **ATMs:** 7-Eleven (all foreign cards), Japan Post ATMs
+- **Withdraw limit:** ~¥50,000-100,000 per transaction (check your bank)
+
+### Recommended Cash Breakdown
+| Purpose | Amount |
+|---------|--------|
+| DisneySea (lockers, food, souvenirs) | ¥20,000 |
+| Enoshima/Kamakura (temples, food) | ¥10,000 |
+| Mt. Fuji trip (cash-only shops) | ¥15,000 |
+| General spending (5 days) | ¥30,000 |
+| Emergency buffer | ¥25,000 |
+| **Total** | **¥100,000 (~S$900)** |
+
+### Tax-Free Shopping
+- **Minimum:** ¥5,000+ at participating stores
+- **Discount:** 10% consumption tax refunded
+- **Required:** Passport (original, not photo)
+- **Where:** Department stores, electronics (Bic Camera, Yodobashi), Uniqlo, Don Quijote
+
+---
+
+## ⚠️ Important Notes & Warnings
+
+### Day 2 (Mon 9 Mar) — Imperial Palace CLOSED
+- **East Gardens:** CLOSED on Mondays AND Fridays
+- **Outer Grounds:** Always open (Nijubashi Bridge area)
+- **Alternative:** Asakusa Sensoji Temple (open daily) or Ueno Park
+
+### Day 4 (Wed 11 Mar) — Original Activities Removed
+Your original Day 4 had these activities — now replaced with Enoshima/Kamakura:
+- ❌ **Tsukiji Fish Market** → Can visit on Day 2 evening or Day 5 morning (if energy)
+- ❌ **PayPal Office Tokyo** → ⚠️ **Work visit — do you still need this?** Need to schedule separately
+- ❌ **Yoyogi Dog Run** → Not feasible (requires rabies vaccination registration for your dog)
+- ❌ **Miraikan (Science Museum)** → Can add to Day 5 morning if you want (open 10 AM-5 PM, closed Tuesdays)
+
+### Restaurant Reservations
+- **Sato Yosuke (Ginza):** +81-3-6215-6211 (dinner reservations recommended, 10% service charge after 5 PM)
+- **Ramen Takahashi (Shinjuku):** Often queues, go early or late to avoid peaks
+- **DisneySea restaurants:** Book via Disney app 1 month in advance (Vulcania, Magellan's, etc.)
+
+### Weather Contingency
+- **Rainy Day Plan:** teamLab Planets (Toyosu), teamLab Borderless (Azabudai), shopping (Ginza, Shibuya), museums
+- **Fuji Trip:** Mountain roads can be slippery — shuttle bus operator will cancel if unsafe (full refund)
+
+---
+
+## 🆘 Emergency Contacts
+
+| Service | Number | Notes |
+|---------|--------|-------|
+| **Emergency (Police)** | 110 | English-speaking operators available |
+| **Emergency (Fire/Ambulance)** | 119 | |
+| **Japan Visitor Hotline** | 03-3201-3331 | 24/7, English support |
+| **Singapore Embassy Tokyo** | +81-3-3586-7221 | Consular assistance |
+| **Scoot Airlines** | +65 6950 7888 | Flight changes |
+| **Hotel (HOTEL MYSTAYS)** | +81-3-6803-2111 | Address: 1-5-5 Asakusabashi, Taito-ku |
+
+---
+
+## 🎒 Original Day 4 Activities — Keep or Skip?
+
+Your original Day 4 had work + leisure activities. Since I replaced it with Enoshima/Kamakura, here's what to consider:
+
+### PayPal Office Visit (Work)
+- **Status:** ⚠️ **Need confirmation** — is this still required?
+- **If yes:** Schedule separately (Wed 11 Mar afternoon or Thu 12 Mar morning before DisneySea)
+- **Location:** Likely Shibuya or Minato-ku (confirm exact address)
+- **Time needed:** 1-2 hours + travel
+
+### Tsukiji Outer Market (Food)
+- **Best time:** 9-11 AM (before lunch crowds)
+- **Can fit:** Day 2 evening (after Raku Spa) or Day 5 morning (before DisneySea if early)
+- **Must-try:** Fresh sushi bowls, tamagoyaki, grilled scallops
+
+### Miraikan (Science Museum)
+- **Hours:** 10 AM-5 PM (last entry 4:30 PM)
+- **Closed:** Tuesdays (Day 3 is Tuesday — but you'll be at Fuji!)
+- **Can fit:** Day 4 afternoon (but conflicts with Enoshima/Kamakura)
+- **Verdict:** Skip unless you're huge science/tech fans
+
+### Yoyogi Dog Run
+- **Status:** ❌ **Not feasible** — requires advance registration with rabies vaccination proof
+- **Alternative:** Just stroll Yoyogi Park (open, free, nice walk)
+
+**Recommendation:** Keep Enoshima/Kamakura (more memorable, better use of time). Handle PayPal visit separately if still needed.
 
 ---
 

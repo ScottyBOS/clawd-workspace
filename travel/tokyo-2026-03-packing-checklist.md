@@ -153,21 +153,32 @@
 
 ## 📅 Pre-Departure Checklist
 
+### 1 Week Before (1-6 Mar)
+- [ ] **Book Enoshima-Kamakura shuttle** (if doing guided tour) or confirm Freepass pickup
+- [ ] **Reserve Sato Yosuke Ginza** (dinner Mon 9 Mar) — +81-3-6215-6211
+- [ ] **Confirm PayPal office visit** (if still needed) — schedule separately
+- [ ] **Download all apps** (Disney, Navitime, Google Translate offline)
+- [ ] **Notify bank** for Japan travel (card overseas use)
+- [ ] **Check passport validity** (6+ months required)
+
 ### 48 Hours Before (6 Mar)
-- [ ] Online check-in for Scoot TR 882
-- [ ] Confirm DisneySea tickets in app
-- [ ] Check weather forecast Tokyo
+- [ ] **Online check-in** for Scoot TR 882
+- [ ] **Confirm DisneySea tickets** in app (QR codes ready)
+- [ ] **Check weather forecast** Tokyo + Fuji area
+- [ ] **Download offline maps** (Tokyo, Fuji, Kamakura, Enoshima)
 
 ### Night Before (7 Mar)
-- [ ] Charge all devices + power banks
-- [ ] Pack carry-on with essentials
-- [ ] Set phone to auto-timezone
-- [ ] Prepare ¥100 coins for DisneySea lockers
+- [ ] **Charge all devices** + power banks (full charge)
+- [ ] **Pack carry-on** with essentials (meds, electronics, change of clothes)
+- [ ] **Set phone** to auto-timezone
+- [ ] **Prepare ¥100 coins** for DisneySea lockers (¥2,000 = 20 coins)
+- [ ] **Print documents** (flight tickets, hotel booking, travel insurance)
 
 ### Departure Day (8 Mar)
-- [ ] Arrive Changi T1 by 3:30 PM (flight 5:30 PM)
-- [ ] Eat before boarding (no Scoot meals)
-- [ ] Fill out Japan disembarkation card on plane
+- [ ] **Arrive Changi T1** by 3:30 PM (flight 5:30 PM)
+- [ ] **Eat before boarding** (no Scoot meals)
+- [ ] **Fill out Japan disembarkation card** on plane (pen needed!)
+- [ ] **Keep passport + pen accessible** (immigration forms)
 
 ---
 
