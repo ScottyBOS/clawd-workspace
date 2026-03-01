@@ -110,6 +110,13 @@
 - [ ] Motion sickness meds
 - [ ] Sunglasses (bright at elevation)
 
+### For Enoshima/Kamakura Day Trip (11 Mar)
+- [ ] Comfortable walking shoes (temple steps!)
+- [ ] Light jacket (coastal = windier)
+- [ ] ¥1,000 cash (temple entries: ¥300-500 each)
+- [ ] Enoshima-Kamakura Freepass (keep accessible)
+- [ ] Camera (scenic Enoden rides!)
+
 ### For Raku Spa (9 Mar Arrival)
 - [ ] Swimwear (if required — check booking)
 - [ ] Small towel
@@ -171,7 +178,7 @@
 | 1 | Sun 8 Mar | Flight + Raku Spa | Carry-on + change of clothes |
 | 2 | Mon 9 Mar | Imperial Palace + Ginza | Walking shoes, light jacket |
 | 3 | Tue 10 Mar | Mt. Fuji day trip | Warm layers, cash, motion sickness meds |
-| 4 | Wed 11 Mar | Tsukiji + PayPal + Yoyogi | Comfortable shoes, camera |
+| 4 | Wed 11 Mar | **Enoshima & Kamakura** | Walking shoes, light jacket, cash for temples |
 | 5 | Thu 12 Mar | **DisneySea** → Haneda | **Full DisneySea kit** |
 | 6 | Fri 13 Mar | Flight home | — |
 
